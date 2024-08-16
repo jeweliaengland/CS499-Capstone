@@ -1,0 +1,3 @@
+﻿  BankApplication.cpp
+U:\cprojects\BankApplication\BankApplication\BankApplication.cpp(108,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  BankApplication.vcxproj -> U:\cprojects\BankApplication\Debug\BankApplication.exe
