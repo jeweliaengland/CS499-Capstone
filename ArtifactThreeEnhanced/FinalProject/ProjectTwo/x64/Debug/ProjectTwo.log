@@ -1,0 +1,11 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProjectTwo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Artifact3.cpp
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(303,18): warning C4129: 'C': unrecognized character escape sequence
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(303,18): warning C4129: 'A': unrecognized character escape sequence
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(303,18): warning C4129: 'F': unrecognized character escape sequence
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(303,18): warning C4129: 'P': unrecognized character escape sequence
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(303,18): warning C4129: 'c': unrecognized character escape sequence
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(385,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(406,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\CS499\ArtifactThree\FinalProject\ProjectTwo\Artifact3.cpp(448,20): warning C4101: 'err': unreferenced local variable
+  ProjectTwo.vcxproj -> D:\repos\CS499\ArtifactThree\FinalProject\x64\Debug\Artifact3.exe

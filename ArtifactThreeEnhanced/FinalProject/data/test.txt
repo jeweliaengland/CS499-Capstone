@@ -1,0 +1,10 @@
+CourseId, Title, Prereq
+CSCI100, Introduction to Computer Science,
+CSCI101, Introduction to Programming in C++,CSCI100
+CSCI200, Data Structures,CSCI101
+CSCI300, Introduction to Algorithms,CSCI200
+CSCI301, Advanced Programming in C++,CSCI101
+MATH301, Advanced Discrete Mathematics,"MATH201"
+CSCI350, Operating Systems,CSCI300
+CSCI400, Large Software Development,"CSCI301, CSCI350"
+MATH201, Discrete Mathematics,"CSCI300, CSCI200"
