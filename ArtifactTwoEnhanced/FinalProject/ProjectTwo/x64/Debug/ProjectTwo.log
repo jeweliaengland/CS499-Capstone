@@ -1,0 +1,11 @@
+﻿  FinalProject.cpp
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(217,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(222,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(304,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(443,27): warning C4018: '<': signed/unsigned mismatch
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(657,19): warning C4129: 'F': unrecognized character escape sequence
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(657,19): warning C4129: 'd': unrecognized character escape sequence
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(739,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(760,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\ProjectTwo\FinalProject.cpp(802,20): warning C4101: 'err': unreferenced local variable
+  ProjectTwo.vcxproj -> D:\repos\CS499\ArtifactTwoEnhanced\FinalProject\x64\Debug\ProjectTwo.exe
