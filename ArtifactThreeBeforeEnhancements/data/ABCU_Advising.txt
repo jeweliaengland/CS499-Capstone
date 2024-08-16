@@ -1,0 +1,9 @@
+CourseNumber;CourseName;Prereqs;;;;;Bid;,CC;Fee,Fee;Percent,Auction;Fee;Subtotal,Fund,Auction;Fee;Total,Pay;Status;,Paid;Date;,Asset;#,Inventory;ID,Decal;/Vehicle;ID,VTR;Number,Receipt;Number;,Cap,Expenses,Net;Sales,Business;Unit
+CSCI100 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSCI101 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSC200 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSCI300 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSCI301 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSC350 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CSCI400 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MATH201 ;;;;;;;;;;;;;;;;;;;;;;;;;;;

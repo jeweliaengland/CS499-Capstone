@@ -1,0 +1,16 @@
+﻿  CSVparser.cpp
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\CSVparser.cpp(116,27): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\CSVparser.cpp(121,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\CSVparser.cpp(203,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ProjectTwo.cpp
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(217,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(222,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(304,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(443,27): warning C4018: '<': signed/unsigned mismatch
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(598,19): warning C4129: 'P': unrecognized character escape sequence
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(598,19): warning C4129: 'd': unrecognized character escape sequence
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(674,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\ProjectTwo\ProjectTwo.cpp(694,20): warning C4101: 'err': unreferenced local variable
+  Generating Code...
+  LINK : D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\x64\Debug\ProjectTwo.exe not found or not built by the last incremental link; performing full link
+  ProjectTwo.vcxproj -> D:\repos\CS499\DEMO\ArtifactTwoBeforeEnhancements\x64\Debug\ProjectTwo.exe
